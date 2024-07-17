@@ -1,3 +1,4 @@
+![logo](https://github.com/HARSHAL021/HARSHAL021/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Harshal Mhaiskey</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
